@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='egg\(1).jpg'>
+    <box top='330' left='633' width='658' height='859'/>
+  </image>
+  <image file='egg\(10).jpg'>
+    <box top='30' left='75' width='100' height='121'/>
+  </image>
+  <image file='egg\(100).jpg'>
+    <box top='51' left='72' width='121' height='160'/>
+  </image>
+  <image file='egg\(101).jpg'>
+    <box top='8' left='59' width='148' height='192'/>
+  </image>
+  <image file='egg\(102).jpg'>
+    <box top='49' left='63' width='135' height='172'/>
+  </image>
+  <image file='egg\(103).jpg'>
+    <box top='27' left='33' width='195' height='269'/>
+  </image>
+  <image file='egg\(11).jpg'>
+    <box top='37' left='86' width='80' height='99'/>
+  </image>
+  <image file='egg\(12).jpg'>
+    <box top='30' left='86' width='86' height='110'/>
+  </image>
+  <image file='egg\(13).jpg'>
+    <box top='33' left='89' width='82' height='107'/>
+  </image>
+  <image file='egg\(14).jpg'>
+    <box top='38' left='85' width='98' height='125'/>
+  </image>
+  <image file='egg\(15).jpg'>
+    <box top='16' left='90' width='80' height='102'/>
+  </image>
+  <image file='egg\(16).jpg'>
+    <box top='35' left='91' width='73' height='104'/>
+  </image>
+  <image file='egg\(17).jpg'>
+    <box top='74' left='81' width='92' height='112'/>
+  </image>
+  <image file='egg\(18).jpg'>
+    <box top='17' left='89' width='82' height='103'/>
+  </image>
+  <image file='egg\(19).jpg'>
+    <box top='27' left='39' width='154' height='124'/>
+  </image>
+  <image file='egg\(2).jpg'>
+    <box top='40' left='58' width='146' height='196'/>
+  </image>
+  <image file='egg\(20).jpg'>
+    <box top='15' left='33' width='192' height='242'/>
+  </image>
+  <image file='egg\(21).jpg'>
+    <box top='39' left='77' width='102' height='98'/>
+  </image>
+  <image file='egg\(22).jpg'>
+    <box top='56' left='97' width='66' height='81'/>
+  </image>
+  <image file='egg\(23).jpg'>
+    <box top='55' left='70' width='120' height='151'/>
+  </image>
+  <image file='egg\(24).jpg'>
+    <box top='94' left='73' width='112' height='144'/>
+  </image>
+  <image file='egg\(25).jpg'>
+    <box top='65' left='47' width='158' height='199'/>
+  </image>
+  <image file='egg\(26).jpg'>
+    <box top='27' left='53' width='153' height='131'/>
+  </image>
+  <image file='egg\(27).jpg'>
+    <box top='47' left='93' width='76' height='93'/>
+  </image>
+  <image file='egg\(28).jpg'>
+    <box top='12' left='82' width='89' height='115'/>
+  </image>
+  <image file='egg\(29).jpg'>
+    <box top='41' left='103' width='52' height='66'/>
+  </image>
+  <image file='egg\(3).jpg'>
+    <box top='47' left='69' width='126' height='169'/>
+  </image>
+  <image file='egg\(30).jpg'>
+    <box top='16' left='88' width='85' height='103'/>
+  </image>
+  <image file='egg\(31).jpg'>
+    <box top='30' left='52' width='161' height='204'/>
+  </image>
+  <image file='egg\(32).jpg'>
+    <box top='30' left='80' width='90' height='112'/>
+  </image>
+  <image file='egg\(33).jpg'>
+    <box top='9' left='79' width='100' height='130'/>
+  </image>
+  <image file='egg\(34).jpg'>
+    <box top='5' left='68' width='108' height='133'/>
+  </image>
+  <image file='egg\(35).jpg'>
+    <box top='8' left='76' width='106' height='127'/>
+  </image>
+  <image file='egg\(36).jpg'>
+    <box top='28' left='91' width='75' height='97'/>
+  </image>
+  <image file='egg\(37).jpg'>
+    <box top='35' left='88' width='84' height='101'/>
+  </image>
+  <image file='egg\(38).jpg'>
+    <box top='2' left='72' width='110' height='141'/>
+  </image>
+  <image file='egg\(39).jpg'>
+    <box top='50' left='89' width='77' height='105'/>
+  </image>
+  <image file='egg\(4).jpg'>
+    <box top='12' left='64' width='134' height='173'/>
+  </image>
+  <image file='egg\(40).jpg'>
+    <box top='35' left='74' width='111' height='137'/>
+  </image>
+  <image file='egg\(41).jpg'>
+    <box top='12' left='79' width='91' height='113'/>
+  </image>
+  <image file='egg\(42).jpg'>
+    <box top='47' left='96' width='64' height='81'/>
+  </image>
+  <image file='egg\(43).jpg'>
+    <box top='16' left='87' width='89' height='120'/>
+  </image>
+  <image file='egg\(44).jpg'>
+    <box top='22' left='91' width='80' height='92'/>
+  </image>
+  <image file='egg\(45).jpg'>
+    <box top='44' left='101' width='102' height='79'/>
+  </image>
+  <image file='egg\(46).jpg'>
+    <box top='6' left='80' width='98' height='127'/>
+  </image>
+  <image file='egg\(47).jpg'>
+    <box top='7' left='68' width='107' height='130'/>
+  </image>
+  <image file='egg\(48).jpg'>
+    <box top='8' left='78' width='102' height='130'/>
+  </image>
+  <image file='egg\(49).jpg'>
+    <box top='27' left='90' width='75' height='101'/>
+  </image>
+  <image file='egg\(5).jpg'>
+    <box top='34' left='65' width='141' height='189'/>
+  </image>
+  <image file='egg\(50).jpg'>
+    <box top='19' left='88' width='85' height='111'/>
+  </image>
+  <image file='egg\(51).jpg'>
+    <box top='10' left='80' width='102' height='127'/>
+  </image>
+  <image file='egg\(52).jpg'>
+    <box top='30' left='79' width='92' height='112'/>
+  </image>
+  <image file='egg\(53).jpg'>
+    <box top='28' left='53' width='155' height='209'/>
+  </image>
+  <image file='egg\(54).jpg'>
+    <box top='13' left='84' width='95' height='113'/>
+  </image>
+  <image file='egg\(55).jpg'>
+    <box top='111' left='204' width='577' height='763'/>
+  </image>
+  <image file='egg\(56).jpg'>
+    <box top='18' left='88' width='86' height='110'/>
+  </image>
+  <image file='egg\(57).jpg'>
+    <box top='48' left='119' width='95' height='85'/>
+  </image>
+  <image file='egg\(58).jpg'>
+    <box top='18' left='43' width='169' height='134'/>
+  </image>
+  <image file='egg\(59).jpg'>
+    <box top='15' left='61' width='166' height='147'/>
+  </image>
+  <image file='egg\(6).jpg'>
+    <box top='20' left='50' width='166' height='221'/>
+  </image>
+  <image file='egg\(60).jpg'>
+    <box top='27' left='37' width='155' height='124'/>
+  </image>
+  <image file='egg\(61).jpg'>
+    <box top='29' left='44' width='170' height='138'/>
+  </image>
+  <image file='egg\(62).jpg'>
+    <box top='15' left='25' width='214' height='172'/>
+  </image>
+  <image file='egg\(63).jpg'>
+    <box top='24' left='47' width='131' height='98'/>
+  </image>
+  <image file='egg\(64).jpg'>
+    <box top='25' left='53' width='146' height='116'/>
+  </image>
+  <image file='egg\(65).jpg'>
+    <box top='50' left='72' width='134' height='103'/>
+  </image>
+  <image file='egg\(66).jpg'>
+    <box top='74' left='84' width='86' height='114'/>
+  </image>
+  <image file='egg\(67).jpg'>
+    <box top='99' left='154' width='80' height='104'/>
+  </image>
+  <image file='egg\(68).jpg'>
+    <box top='26' left='51' width='154' height='115'/>
+  </image>
+  <image file='egg\(69).jpg'>
+    <box top='39' left='16' width='138' height='177'/>
+  </image>
+  <image file='egg\(7).jpg'>
+    <box top='7' left='62' width='138' height='180'/>
+  </image>
+  <image file='egg\(70).jpg'>
+    <box top='12' left='34' width='182' height='154'/>
+  </image>
+  <image file='egg\(71).jpg'>
+    <box top='9' left='25' width='178' height='140'/>
+  </image>
+  <image file='egg\(72).jpg'>
+    <box top='23' left='58' width='141' height='111'/>
+  </image>
+  <image file='egg\(73).jpg'>
+    <box top='19' left='38' width='134' height='132'/>
+  </image>
+  <image file='egg\(74).jpg'>
+    <box top='29' left='59' width='138' height='104'/>
+  </image>
+  <image file='egg\(75).jpg'>
+    <box top='36' left='44' width='142' height='189'/>
+  </image>
+  <image file='egg\(76).jpg'>
+    <box top='7' left='39' width='169' height='158'/>
+  </image>
+  <image file='egg\(77).jpg'>
+    <box top='22' left='69' width='126' height='165'/>
+  </image>
+  <image file='egg\(78).jpg'>
+    <box top='14' left='20' width='223' height='175'/>
+  </image>
+  <image file='egg\(79).jpg'>
+    <box top='13' left='40' width='199' height='148'/>
+  </image>
+  <image file='egg\(8).jpg'>
+    <box top='49' left='66' width='132' height='178'/>
+  </image>
+  <image file='egg\(80).jpg'>
+    <box top='13' left='41' width='173' height='143'/>
+  </image>
+  <image file='egg\(81).jpg'>
+    <box top='26' left='55' width='115' height='97'/>
+  </image>
+  <image file='egg\(82).jpg'>
+    <box top='64' left='32' width='194' height='258'/>
+  </image>
+  <image file='egg\(83).jpg'>
+    <box top='39' left='75' width='108' height='134'/>
+  </image>
+  <image file='egg\(84).jpg'>
+    <box top='66' left='35' width='192' height='258'/>
+  </image>
+  <image file='egg\(86).jpg'>
+    <box top='35' left='45' width='149' height='118'/>
+  </image>
+  <image file='egg\(9).jpg'>
+    <box top='18' left='59' width='112' height='144'/>
+  </image>
+  <image file='egg\(90).jpg'>
+    <box top='27' left='45' width='169' height='133'/>
+  </image>
+  <image file='egg\(91).jpg'>
+    <box top='35' left='69' width='124' height='95'/>
+  </image>
+  <image file='egg\(92).jpg'>
+    <box top='37' left='51' width='158' height='203'/>
+  </image>
+  <image file='egg\(93).jpg'>
+    <box top='28' left='34' width='189' height='158'/>
+  </image>
+  <image file='egg\(94).jpg'>
+    <box top='13' left='38' width='180' height='141'/>
+  </image>
+  <image file='egg\(95).jpg'>
+    <box top='2' left='66' width='126' height='154'/>
+  </image>
+  <image file='egg\(96).jpg'>
+    <box top='21' left='65' width='133' height='166'/>
+  </image>
+  <image file='egg\(97).jpg'>
+    <box top='37' left='62' width='138' height='186'/>
+  </image>
+  <image file='egg\(98).jpg'>
+    <box top='50' left='68' width='125' height='164'/>
+  </image>
+  <image file='egg\(99).jpg'>
+    <box top='26' left='53' width='155' height='211'/>
+  </image>
+</images>
+</dataset>

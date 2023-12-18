@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='egg\(77).jpg'>
+    <box top='22' left='69' width='126' height='165'/>
+  </image>
+  <image file='egg\(78).jpg'>
+    <box top='14' left='20' width='223' height='175'/>
+  </image>
+  <image file='egg\(79).jpg'>
+    <box top='13' left='40' width='199' height='148'/>
+  </image>
+  <image file='egg\(8).jpg'>
+    <box top='49' left='66' width='132' height='178'/>
+  </image>
+  <image file='egg\(80).jpg'>
+    <box top='13' left='41' width='173' height='143'/>
+  </image>
+  <image file='egg\(81).jpg'>
+    <box top='26' left='55' width='115' height='97'/>
+  </image>
+  <image file='egg\(82).jpg'>
+    <box top='64' left='32' width='194' height='258'/>
+  </image>
+  <image file='egg\(83).jpg'>
+    <box top='39' left='75' width='108' height='134'/>
+  </image>
+  <image file='egg\(84).jpg'>
+    <box top='66' left='35' width='192' height='258'/>
+  </image>
+  <image file='egg\(86).jpg'>
+    <box top='35' left='45' width='149' height='118'/>
+  </image>
+  <image file='egg\(9).jpg'>
+    <box top='18' left='59' width='112' height='144'/>
+  </image>
+  <image file='egg\(90).jpg'>
+    <box top='27' left='45' width='169' height='133'/>
+  </image>
+  <image file='egg\(91).jpg'>
+    <box top='35' left='69' width='124' height='95'/>
+  </image>
+  <image file='egg\(92).jpg'>
+    <box top='37' left='51' width='158' height='203'/>
+  </image>
+  <image file='egg\(93).jpg'>
+    <box top='28' left='34' width='189' height='158'/>
+  </image>
+  <image file='egg\(94).jpg'>
+    <box top='13' left='38' width='180' height='141'/>
+  </image>
+  <image file='egg\(95).jpg'>
+    <box top='2' left='66' width='126' height='154'/>
+  </image>
+  <image file='egg\(96).jpg'>
+    <box top='21' left='65' width='133' height='166'/>
+  </image>
+  <image file='egg\(97).jpg'>
+    <box top='37' left='62' width='138' height='186'/>
+  </image>
+  <image file='egg\(98).jpg'>
+    <box top='50' left='68' width='125' height='164'/>
+  </image>
+  <image file='egg\(99).jpg'>
+    <box top='26' left='53' width='155' height='211'/>
+  </image>
+</images>
+</dataset>
