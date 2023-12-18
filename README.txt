@@ -1,6 +1,4 @@
-link video: https://youtu.be/h9x7_phVmmw?si=CCIWnYbbz2HYNVr2
-https://youtu.be/RwoNEq_Wsa4?si=FgcWKoarR2YGLem9
-https://youtu.be/gC90K_Jn9lI?si=ZGepDzrf42aRTim8
+
 
 B1: open Cmd
 B2: đến thư mục chưa imgLab.exe
